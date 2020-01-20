@@ -1,0 +1,36 @@
+
+.app-wrapper {
+  background-color: black;
+  font: 12px/20px 'Lucida Grande', Verdana, sans-serif;
+  color: #404040;
+}
+
+.app-wrapper-page {
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  min-height: 100vh;
+  text-align: center;
+  box-shadow: 20px 0 20px -20px #000 inset, -20px 0 20px -20px #000 inset;
+}
+
+@keyframes shadow {
+  from {
+    box-shadow: 0 0 15px 10px white;
+  }
+  to {
+    box-shadow: 0 0 10px 20px white;
+  }
+}
+
+
+
+
+
+
+
+
+

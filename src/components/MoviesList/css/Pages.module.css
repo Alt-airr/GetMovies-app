@@ -1,0 +1,23 @@
+
+
+.pages{
+    margin: 5px;
+    width: calc(100% - 15px);
+    overflow: hidden}
+
+.pageNumber {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.pageNumber:hover {
+    background-color: lightslategray;
+}
+
+.selectedPage {
+    color: white;
+    background-color: brown;
+    margin: 5px;
+}

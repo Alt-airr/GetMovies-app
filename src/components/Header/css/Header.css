@@ -1,0 +1,12 @@
+.header {
+    height: 50px;
+    background-color: brown;
+    margin-bottom: 10px;
+}
+
+.title {
+    position: absolute;
+    left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
